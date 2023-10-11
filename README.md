@@ -20,4 +20,6 @@ yarn start
 
 ## Tests
 
-I received this with short deadline and thus due to time constraints I wasn't able to create tests, rest assured that I test my code.
+I received this with short deadline and thus due to time constraints, I wasn't able to create tests.
+
+Rest assured that I test my code.
